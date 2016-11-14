@@ -1,0 +1,19 @@
+name: Project A
+description: "Suppress the pirates, who have been raiding ships for months"
+client:  Hong Kong Marine Police
+budget: 40000
+currency: HKD
+tasks_df: |
+    task,budget
+    Inception,2000
+    Context,3000
+    Problems & Opportunities,20000
+    Solutions,10000
+    Project Management,5000
+workers_df: |
+    worker,rate
+    Captain Chi,200
+    Dragon Ma,190
+    Hong Tin-tsu,180
+    Fei,170
+    Winnie,160

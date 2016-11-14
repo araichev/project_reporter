@@ -1,0 +1,88 @@
+date,task,worker,duration
+2016-09-13,Inception,Captain Chi,2.0
+2016-09-14,Inception,Captain Chi,3.0
+2016-09-20,Inception,Captain Chi,1.0
+2016-09-21,Inception,Captain Chi,1.0
+2016-09-08,Inception,Dragon Ma,1.0
+2016-09-12,Inception,Dragon Ma,2.0
+2016-09-14,Inception,Dragon Ma,2.0
+2016-09-19,Inception,Dragon Ma,1.0
+2016-09-20,Inception,Dragon Ma,1.0
+2016-09-21,Inception,Dragon Ma,2.0
+2016-09-22,Inception,Dragon Ma,1.0
+2016-09-23,Inception,Dragon Ma,1.0
+2016-09-26,Inception,Dragon Ma,2.0
+2016-09-28,Context,Captain Chi,3.0
+2016-09-30,Context,Captain Chi,2.0
+2016-10-03,Context,Captain Chi,1.0
+2016-10-06,Context,Hong Tin-tsu,2.0
+2016-10-07,Context,Hong Tin-tsu,2.0
+2016-09-27,Context,Dragon Ma,1.0
+2016-09-29,Context,Dragon Ma,2.0
+2016-10-03,Context,Dragon Ma,2.0
+2016-10-04,Context,Dragon Ma,2.0
+2016-10-04,Problems & Opportunities,Captain Chi,4.0
+2016-10-05,Problems & Opportunities,Captain Chi,4.0
+2016-10-06,Problems & Opportunities,Captain Chi,2.0
+2016-10-07,Problems & Opportunities,Captain Chi,4.0
+2016-10-10,Problems & Opportunities,Captain Chi,6.0
+2016-10-11,Problems & Opportunities,Captain Chi,2.0
+2016-10-12,Problems & Opportunities,Captain Chi,5.0
+2016-10-31,Problems & Opportunities,Captain Chi,4.0
+2016-10-26,Problems & Opportunities,Fei,1.0
+2016-10-03,Problems & Opportunities,Winnie,2.0
+2016-10-04,Problems & Opportunities,Winnie,2.0
+2016-10-13,Problems & Opportunities,Winnie,1.0
+2016-10-14,Problems & Opportunities,Winnie,6.0
+2016-10-17,Problems & Opportunities,Winnie,6.0
+2016-10-10,Problems & Opportunities,Hong Tin-tsu,4.0
+2016-10-11,Problems & Opportunities,Hong Tin-tsu,1.0
+2016-10-12,Problems & Opportunities,Hong Tin-tsu,5.0
+2016-10-14,Problems & Opportunities,Hong Tin-tsu,5.0
+2016-10-25,Problems & Opportunities,Hong Tin-tsu,1.0
+2016-10-26,Problems & Opportunities,Hong Tin-tsu,2.0
+2016-10-27,Problems & Opportunities,Hong Tin-tsu,2.0
+2016-09-30,Problems & Opportunities,Dragon Ma,2.0
+2016-10-05,Problems & Opportunities,Dragon Ma,3.0
+2016-10-06,Problems & Opportunities,Dragon Ma,2.0
+2016-10-07,Problems & Opportunities,Dragon Ma,3.0
+2016-10-10,Problems & Opportunities,Dragon Ma,4.0
+2016-10-11,Problems & Opportunities,Dragon Ma,2.0
+2016-10-12,Problems & Opportunities,Dragon Ma,5.0
+2016-10-13,Problems & Opportunities,Dragon Ma,2.0
+2016-10-14,Problems & Opportunities,Dragon Ma,5.0
+2016-10-17,Problems & Opportunities,Dragon Ma,1.0
+2016-10-18,Problems & Opportunities,Dragon Ma,2.0
+2016-10-19,Problems & Opportunities,Dragon Ma,4.0
+2016-10-20,Problems & Opportunities,Dragon Ma,3.0
+2016-10-21,Problems & Opportunities,Dragon Ma,3.0
+2016-10-25,Problems & Opportunities,Dragon Ma,5.0
+2016-10-26,Problems & Opportunities,Dragon Ma,5.0
+2016-10-27,Problems & Opportunities,Dragon Ma,3.0
+2016-10-28,Problems & Opportunities,Dragon Ma,3.0
+2016-10-31,Problems & Opportunities,Dragon Ma,4.0
+2016-11-01,Problems & Opportunities,Dragon Ma,1.0
+2016-11-01,Solutions,Captain Chi,6.0
+2016-11-02,Solutions,Captain Chi,6.0
+2016-11-03,Solutions,Captain Chi,6.0
+2016-11-04,Solutions,Captain Chi,5.0
+2016-11-07,Solutions,Captain Chi,7.0
+2016-11-08,Solutions,Captain Chi,8.0
+2016-11-01,Solutions,Hong Tin-tsu,1.0
+2016-11-01,Solutions,Dragon Ma,3.0
+2016-11-02,Solutions,Dragon Ma,3.0
+2016-11-03,Solutions,Dragon Ma,2.0
+2016-11-04,Solutions,Dragon Ma,1.0
+2016-09-26,Project Management,Dragon Ma,1.0
+2016-09-27,Project Management,Dragon Ma,1.0
+2016-09-28,Project Management,Dragon Ma,2.0
+2016-09-29,Project Management,Dragon Ma,2.0
+2016-10-04,Project Management,Dragon Ma,1.0
+2016-10-17,Project Management,Dragon Ma,2.0
+2016-10-18,Project Management,Dragon Ma,2.0
+2016-10-20,Project Management,Dragon Ma,1.0
+2016-10-25,Project Management,Dragon Ma,2.0
+2016-10-26,Project Management,Dragon Ma,1.0
+2016-10-27,Project Management,Dragon Ma,1.0
+2016-11-01,Project Management,Dragon Ma,1.0
+2016-11-04,Project Management,Dragon Ma,2.0
